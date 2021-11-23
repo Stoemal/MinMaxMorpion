@@ -1,0 +1,13 @@
+C:\Users\lewis\source\repos\ia_morpion\ia_morpion\bin\Debug\ia_morpion.exe.config
+C:\Users\lewis\source\repos\ia_morpion\ia_morpion\bin\Debug\ia_morpion.exe
+C:\Users\lewis\source\repos\ia_morpion\ia_morpion\bin\Debug\ia_morpion.pdb
+C:\Users\lewis\source\repos\ia_morpion\ia_morpion\obj\Debug\ia_morpion.csprojAssemblyReference.cache
+C:\Users\lewis\source\repos\ia_morpion\ia_morpion\obj\Debug\ia_morpion.exe
+C:\Users\lewis\source\repos\ia_morpion\ia_morpion\obj\Debug\ia_morpion.pdb
+C:\Users\quent\Documents\Info\Esilv\S6\IA\Projet final\ia_morpion\ia_morpion\bin\Debug\ia_morpion.exe.config
+C:\Users\quent\Documents\Info\Esilv\S6\IA\Projet final\ia_morpion\ia_morpion\bin\Debug\ia_morpion.exe
+C:\Users\quent\Documents\Info\Esilv\S6\IA\Projet final\ia_morpion\ia_morpion\bin\Debug\ia_morpion.pdb
+C:\Users\quent\Documents\Info\Esilv\S6\IA\Projet final\ia_morpion\ia_morpion\obj\Debug\ia_morpion.csprojAssemblyReference.cache
+C:\Users\quent\Documents\Info\Esilv\S6\IA\Projet final\ia_morpion\ia_morpion\obj\Debug\ia_morpion.csproj.CoreCompileInputs.cache
+C:\Users\quent\Documents\Info\Esilv\S6\IA\Projet final\ia_morpion\ia_morpion\obj\Debug\ia_morpion.exe
+C:\Users\quent\Documents\Info\Esilv\S6\IA\Projet final\ia_morpion\ia_morpion\obj\Debug\ia_morpion.pdb
